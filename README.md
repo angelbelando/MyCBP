@@ -35,3 +35,18 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<p>Voici un code en Python :</p>
+
+<pre><code>
+from flask import Flask, request
+import json
+from bson import json_util
+from bson.objectid import ObjectId
+from pymongo import Connection
+import pprint
+
+with open('param.json') as json_data:
+    data_dict = json.load(json_data)
+json_data.close()
+
+</code></pre>
