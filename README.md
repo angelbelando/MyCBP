@@ -1,4 +1,4 @@
-# Bienvenue sur le dépôts GITHUB consacré au développement d'un Core Banking System
+# Bienvenue sur le dépôt GITHUB consacré au développement d'un Core Banking System
 
 Vous êtes sur le dépôt GITHUb d'Angel Belando.
 
