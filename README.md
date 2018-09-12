@@ -1,6 +1,6 @@
 # Bienvenue sur le dépôt GITHUB consacré au développement d'un Core Banking System
 
-Vous êtes sur le dépôt GITHUb d'Angel Belando.
+Vous êtes sur le dépôt GITHUB d'Angel Belando.
 
 Le but de ce projet est de rédiger mon retour d'expérience dans le développement d'un logiciel bancaire intégré ou plus communément appelé ***Core Banking System***. 
 A partir de mon expérience, je vais construire un noyau de logiciel bancaire à partir de languages et d'outils que je vais découvrir et apprendre en même temps que vous.
